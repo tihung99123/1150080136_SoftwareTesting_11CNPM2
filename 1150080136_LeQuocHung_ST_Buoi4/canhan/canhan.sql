@@ -1,0 +1,7 @@
+Select Top (1000) [OrgID]
+	,[OrgName]
+	,[Address]
+	,[Phone]
+	,[Email]
+	,[CreateDate]
+    From [OrganizationDB].[dbo].[ORGANIZATION]
